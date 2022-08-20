@@ -1,7 +1,7 @@
 
 
 # Hey! I'm Gabriel. 
-I'm currently studying to become QA Tester. I have Libertal Arts and Graphic Design background, both of which I believe are great assets to be a successful Software Tester.
+I'm currently studying to become QA Tester. I have Liberal Arts and Graphic Design background, both of which I believe are great assets to be a successful Software Tester.
 If you have any tips or ideas that you believe would help me on this crusade, please reach out 🖖
 
 
