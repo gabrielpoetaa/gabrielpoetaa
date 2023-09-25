@@ -11,9 +11,9 @@ If you have any tips or ideas that you believe would help me on this crusade, pl
 ### Skills
 
 - 💬 Photoshop, Illustrator, Codeblocks, IntelliJ, Postman and Selenium Webdriver
-- ⚙️ Linux, C, Java, RestAssured, Gradle and Junit. 
-- 💽 MySQL, SQL. 
-- 👁️ SDLC, BDD, API testing w/ Postman, Test automation w/ Selenium Webdriver.
+- ⚙️ Linux, C, JavaScript. 
+- 💽 MySQL, SQL, MongoDB. 
+- 👁️ SDLC, BDD, API testing w/ Postman.
 
 ### Contact 
 - gugapoeta@gmail.com 📫
