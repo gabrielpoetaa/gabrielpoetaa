@@ -10,7 +10,7 @@ If you have any tips or ideas that you believe would help me on this crusade, pl
 
 ### Skills
 
-- 💬 Photoshop, Illustrator, Codeblocks, IntelliJ, Postman and Selenium Webdriver
+- 💬 Photoshop, Illustrator, Codeblocks, VSCode, IntelliJ, Postman and Selenium Webdriver.
 - ⚙️ Linux, C, JavaScript. 
 - 💽 MySQL, SQL, MongoDB. 
 - 👁️ SDLC, BDD, API testing w/ Postman.
