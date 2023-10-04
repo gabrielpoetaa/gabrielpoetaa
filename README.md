@@ -25,4 +25,3 @@ gabrielpoetaa/gabrielpoetaa is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 
-[![An image of @gabrielpoetaa's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gabrielpoetaa)](https://holopin.io/@gabrielpoetaa)
