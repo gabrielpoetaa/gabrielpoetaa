@@ -10,8 +10,8 @@ If you have any tips or ideas that you believe would help me on this crusade, pl
 
 ### Skills
 
-- 💬 Photoshop, Illustrator, Codeblocks, VSCode, IntelliJ, Postman.
-- ⚙️ HTML, CSS, EJS, Linux, C, JavaScript and React.
+- 💬 Photoshop, Illustrator, Wordpress, Codeblocks, VSCode, IntelliJ and Postman
+- ⚙️ HTML, CSS, EJS, Linux, C, JavaScript, PHP and React.
 - 💽 MySQL, SQL, MongoDB. 
 - 👁️ SDLC, BDD, API testing w/ Postman.
 
