@@ -18,6 +18,7 @@ If you have any tips or ideas that you believe would help me on this crusade, pl
 ### Contact 
 -[@gabrielpoetaa](https://www.linkedin.com/in/gabrielpoeta/ "LinkedIn Homepage") on LinkedIn
 - [@gabrielpoetaa](https://www.linkedin.com/in/gabrielpoeta/ "LinkedIn Homepage") on LinkedIn
+- [gabrielpoeta.dev](https://www.gabrielpoeta.dev") on LinkedIn
 - [gabrielpoeta](https://www.behance.net/gabrielpoeta/appreciated "Behance Homepage") on Behance
 - gugapoeta@gmail.com 📫
 
