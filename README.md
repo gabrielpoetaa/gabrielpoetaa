@@ -16,10 +16,10 @@ If you have any tips or ideas that you believe would help me on this crusade, pl
 - 👁️ SDLC, BDD, API testing w/ Postman.
 
 ### Contact 
--[https://www.gabrielpoeta.dev]
+-[@gabrielpoetaa](https://www.linkedin.com/in/gabrielpoeta/ "LinkedIn Homepage") on LinkedIn
 - [@gabrielpoetaa](https://www.linkedin.com/in/gabrielpoeta/ "LinkedIn Homepage") on LinkedIn
 - [gabrielpoeta](https://www.behance.net/gabrielpoeta/appreciated "Behance Homepage") on Behance
-- - gugapoeta@gmail.com 📫
+- gugapoeta@gmail.com 📫
 
 
 <!---
