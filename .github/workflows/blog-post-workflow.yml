@@ -1,17 +1,17 @@
-name: Latest stack oveflow activity
+name: Latest blog post workflow
 on:
-  workflow_dispatch:
   schedule:
-    - cron:  '0 * * * *'
-permissions:
-      contents: write
+    # Runs every hour
+    - cron: '0 * * * *'
+  workflow_dispatch:
+
 jobs:
   update-readme-with-blog:
-    name: Update this repo's README with latest activity from StackOverflow
+    name: Update this repos README with latest blog posts
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
-      - uses: gautamkrishnar/blog-post-workflow@v1
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
         with:
-          feed_list: "https://blog.gabrielpoeta.dev/"
-          template: "<tr><td>$title</td><td>$url</td></tr>"
+          max_post_count: "4"
+          feed_list: "https://dev.to/feed/itszed0"
