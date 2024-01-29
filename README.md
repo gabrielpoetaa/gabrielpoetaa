@@ -36,10 +36,10 @@
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Canada.
 
 
-- 💬 Photoshop, Illustrator, Wordpress, Codeblocks, VSCode, IntelliJ and Postman
-- ⚙️ HTML, CSS, EJS, Linux, C, JavaScript, PHP and React.
+- ⚙️ HTML, CSS, EJS, Linux, C, JavaScript, PHP, React, Typescript and Node.
 - 💽 MySQL, SQL, MongoDB. 
 - 👁️ SDLC, BDD, API testing w/ Postman.
+- 💬 Photoshop, Illustrator, Wordpress, Codeblocks, VSCode, IntelliJ and Postman
 
 ---
 
