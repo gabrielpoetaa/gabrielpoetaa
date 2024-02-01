@@ -1,6 +1,13 @@
+<div align="center">  
+<img src="/image.png" width="600" height="400" alt="" />
+</div>  
+
+<!--
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/fByehYIrOIzO8XolJK/giphy.gif" width="100"/>
 </div>
+-->
+
 <br>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/gabrielpoeta/">
@@ -73,11 +80,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 </div>
 
-<div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielpoetaa&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
 
 
 
