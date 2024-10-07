@@ -20,12 +20,12 @@
 
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Canada.
 
-
+<!--
 - ⚙️ HTML, CSS, Tailwind, C, JavaScript, PHP, Python, React, Typescript and Node.
 - 💽 MySQL, SQL, MongoDB. 
 - 👁️ SDLC, BDD, API testing w/ Postman.
 - 💬 Photoshop, Illustrator, Wordpress, Codeblocks, VSCode, IntelliJ and Postman
-
+-->
 ---
 
 
