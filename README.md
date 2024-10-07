@@ -50,11 +50,13 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 </div>
 
 ---
-
-/*<div align="center">  
+<!--
+<div align="center">  
 <img src="/image.png" width="600" height="400" alt="" />
 </div>  
-<br>*/
+<br>
+-->
+
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/gabrielpoeta/">
