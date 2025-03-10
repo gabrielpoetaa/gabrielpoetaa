@@ -13,11 +13,11 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGw4ZDNtOWlscDNpamJ2bTFsaXBnbWU3YjZ0bXV6NjFkeGZudGVtcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/sdNBZxeU1dUUmR1R1k/giphy.gif" width="400" height="200"/>
 </div>
 <br>
--->
+
 
 
 ### About me
-
+-->
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Canada.
 
 <!--
