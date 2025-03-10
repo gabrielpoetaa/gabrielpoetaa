@@ -26,7 +26,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - 👁️ SDLC, BDD, API testing w/ Postman.
 - 💬 Photoshop, Illustrator, Wordpress, Codeblocks, VSCode, IntelliJ and Postman
 -->
----
+
 
 <!--
 ### :hammer_and_wrench: Languages and Tools :
