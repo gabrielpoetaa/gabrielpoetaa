@@ -18,7 +18,7 @@
 
 ### About me
 -->
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Canada.
+I am a Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Canada.
 
 <!--
 - ⚙️ HTML, CSS, Tailwind, C, JavaScript, PHP, Python, React, Typescript and Node.
